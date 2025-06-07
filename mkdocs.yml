@@ -42,7 +42,155 @@ nav: # 网站导航栏配置
       - 被隐藏的意义 小岛秀夫——〈合金装备：幻痛〉美学解读前瞻篇: Aesthetics&Romance-in-virtual-world/kojima_productions_metal_gear_solid_phantom_pain_aesthetics_part_19.md
       - 废土文化的美学 荒芜之地的朋克: Aesthetics&Romance-in-virtual-world/wasteland_culture_aesthetics_wasteland_punk_part_20.md
       - 不可名状的恐惧 克苏鲁文学解读释义: Aesthetics&Romance-in-virtual-world/lovecraft_cthulhu_fear_analysis_part_21.md
-      - 女巫 坩锅里的天使与恶魔: Aesthetics&Romance-in-virtual-world/witch_angels_demons_cauldron_part_22.
+      - 女巫 坩锅里的天使与恶魔: Aesthetics&Romance-in-virtual-world/witch_angels_demons_cauldron_part_22.md
+      - 巨物恐惧症 当你望向那片山川原野: Aesthetics&Romance-in-virtual-world/Megaphobia_When_You_Look_at_Mountains_and_Wilderness.md
+      - 游戏与艺术 艺术的游戏: Aesthetics&Romance-in-virtual-world/Games_and_Art_The_Art_of_Games.md
+      - 颓废的媚俗 手机游戏与艺术: Aesthetics&Romance-in-virtual-world/Decadent_Kitsch_Mobile_Games_and_Art.md
+      - 心智的交互 游戏与艺术: Aesthetics&Romance-in-virtual-world/Interaction_of_Mind_Games_and_Art.md
+      - 神秘学是什么？: Aesthetics&Romance-in-virtual-world/What_Is_Occultism.md
+      - 灵魂的不在场证明 神秘学: Aesthetics&Romance-in-virtual-world/Soul_Alibi_Occultism.md
+      - 抑郁症 向阳的鸟儿不能飞: Aesthetics&Romance-in-virtual-world/Depression_Sun_Facing_Bird_Cannot_Fly.md
+      - 灵魂的帽子 神秘学 与神秘主义穿衣学: Aesthetics&Romance-in-virtual-world/Soul_Hat_Occultism_and_Mystical_Dressing_Theory.md
+      - 战战兢兢的一生 神秘学 的灵魂学说: Aesthetics&Romance-in-virtual-world/Trembling_Life_Occult_Soul_Theory.md
+      - 你眼中的存在、我心里的梦 存在主义: Aesthetics&Romance-in-virtual-world/You_Eye_Existence_My_Heart_Dream_Existentialism.md
+      - 心灵的钟摆 神秘学: Aesthetics&Romance-in-virtual-world/Pendulum_of_the_Mind_Occultism.md
+      - 虚无主义 当苦难降临之时: Aesthetics&Romance-in-virtual-world/Nihilism_When_Suffering_Comes.md
+      - 爱情与幽灵 虚无主义: Aesthetics&Romance-in-virtual-world/Love_and_Ghosts_Nihilism.md
+      - 欢愉与荒诞在向你微笑 《博德之门3》前瞻: Aesthetics&Romance-in-virtual-world/Joy_and_Absurdity_Smiling_at_You_Baldurs_Gate3_Preview.md
+      - 文字艺术 《博德之门3》文本解构基本释义: Aesthetics&Romance-in-virtual-world/Text_Art_Baldurs_Gate3_Text_Deconstruction_Basic_Meaning.md
+      - 什么是时尚？达达主义: Aesthetics&Romance-in-virtual-world/What_Is_Fashion_Dadaism.md
+      - 在废墟之上遥望废墟 达达主义: Aesthetics&Romance-in-virtual-world/Gazing_at_Ruins_from_Above_Dadaism.md
+      - 蔑慕与虐恋: Aesthetics&Romance-in-virtual-world/Contempt_and_Masochism.md
+      - 情绪稳定 戏剧性的反讽: Aesthetics&Romance-in-virtual-world/Emotional_Stability_Dramatic_Irony.md
+      - 在欲望的伊甸园 超现实主义: Aesthetics&Romance-in-virtual-world/In_the_Garden_of_Desire_Surrealism.md
+      - 欲望的欲望 超现实主义: Aesthetics&Romance-in-virtual-world/Desire_of_Desire_Surrealism.md
+      - 凝视为何: Aesthetics&Romance-in-virtual-world/Why_Gaze.md
+  - 美与浪漫集:
+      - 兔子吹风机与恶魔反叛 西方都市传说浅析: Aesthetics&Romance/Rabbit_Hair_Dryer_and_Demon_Rebellion_Western_Urban_Legends_Analysis.md
+      - 剧场的幽灵 剧场类文化模式浅析: Aesthetics&Romance/Ghosts_of_the_Theater_Cultural_Modes_Analysis.md
+      - 反英雄 文化浅析: Aesthetics&Romance/Anti-Hero_Cultural_Analysis.md
+      - 生命之花、恶魔之实 《罗斯玛丽的婴儿》 深度解读: Aesthetics&Romance/Flower_of_Life_Fruit_of_Evil_Rosemarys_Baby_Deep_Dive.md
+      - 想象的烂漫于界限 复调性: Aesthetics&Romance/Imagination_Splendor_and_Boundary_Polyphony.md
+      - 你为何而生、水女巫的蘑菇圈 《鬼妈妈》深度解读: Aesthetics&Romance/Why_Were_You_Born_Water_Witch_Mushroom_Ring_Coraline_Deep_Dive.md
+      - 猫、梦核与预言: Aesthetics&Romance/Cats_Dreamcore_and_Prophecy.md
+      - 第一份记忆：悼念 新浪漫主义美学的预言三部 之一: Aesthetics&Romance/First_Memory_Mourning_New_Romanticism_Aesthetics_Prophecy_Trilogy_Part_1.md
+      - 什么是“美学”？美的意象: Aesthetics&Romance/What_Is_Aesthetics_Imagery_of_Beauty.md
+      - 电影美学 悲剧性的过去与未来: Aesthetics&Romance/Film_Aesthetics_Tragic_Past_and_Future.md
+      - 存在于不存在的疯癫 《楚门的世界》于存在主义: Aesthetics&Romance/Madness_in_Non_Existence_The_Truman_Show_Existentialism_Deep_Dive.md
+      - 微微眨眼的善意、却永不止步的爱: Aesthetics&Romance/Flickering_Goodness_Unstoppable_Love_The_Shape_of_Water_Deep_Dive.md
+      - 善美与牺牲: Aesthetics&Romance/Goodness_and_Sacrifice.md
+      - 透过灵魂的模样 神秘学的灵魂学说: Aesthetics&Romance/Through_the_Form_of_the_Soul_Occult_Soul_Theory.md
+      - 外星人眼中的红烧鱼 厌蠢症: Aesthetics&Romance/Braised_Fish_in_the_Eyes_of_Aliens_Aversion_to_Stupidity_Syndrome.md
+      - 银河铁道之夜 御宅的最终幻想: Aesthetics&Romance/Night_on_the_Galactic_Railroad_Otakus_Final_Fantasy.md
+      - 最佳演技 回魂夜的气氛: Aesthetics&Romance/Best_Acting_Ghost_Night_Atmosphere.md
+      - 吞噬欲望的欲望 《迷宫饭》: Aesthetics&Romance/Desire_Devouring_Desire_Delicious_in_Dungeon.md
+      - 品味 艺术的记忆: Aesthetics&Romance/Taste_Memory_of_Art.md
+      - 《莱拉是谁》我又是谁？！深度解读: Aesthetics&Romance/Who_Is_Laila_Who_Am_I_Deep_Dive.md
+      - 想要理解锈湖、必须先理解它 《锈湖：旅馆》深度解读: Aesthetics&Romance/To_Understand_Rusty_Lake_You_Must_First_Understand_It_Rusty_Lake_Hotel_Deep_Dive.md
+      - 书与玩具 分享与推荐: Aesthetics&Romance/Books_and_Toys_Sharing_and_Recommendations.md
+      - 永无止境的白日梦 玩具、烂片与古怪调调: Aesthetics&Romance/Endless_Daydream_Toys_Bad_Movies_and_Quirky_Moods.md
+      - 记忆本是一出超现实主义剧场 《崩坏：星穹铁道》之黑天鹅: Aesthetics&Romance/Memory_Is_a_Surrealist_Theater_Honkai_Star_Rail_Black_Swan_First_Episode_with_Trailblazer.md
+      - 韦斯·安德森的电影美学: Aesthetics&Romance/Wes_Andersons_Film_Aesthetics.md
+      - 怪诞美学是什么 精神创伤与分崩离析的世界: Aesthetics&Romance/What_Is_Grotesque_Aesthetics_Psychological_Trauma_and_a_Fragmented_World.md
+      - 怪诞的八副面容 怪诞美学是什么: Aesthetics&Romance/Eight_Faces_of_the_Grotesque_What_Is_Grotesque_Aesthetics.md
+      - 在艺术的裂隙之中 超现实主义绘画与怪诞美学: Aesthetics&Romance/In_the_Crevice_of_Art_Surrealist_Painting_and_Grotesque_Aesthetics.md
+      - 赛博精神病 你的生活足够戏剧: Aesthetics&Romance/Cyber_Psychosis_Your_Life_is_Dramatic_Enough.md
+      -  恐怖故事 想象与拯救: Aesthetics&Romance/Horror_Stories_Imagination_and_Salvation.md
+      - 你在怕什么 暗恐、非家的想象 恐怖文学: Aesthetics&Romance/What_Are_You_Afraid_Of_Uncanny_Non-Home_Imagination_Horror_Literature.md
+      - 爱伦·坡与《丽姬娅》于怪诞 被埋藏的恐惧: Aesthetics&Romance/Edgar_Allan_Poe_and_Ligeia_on_the_Grotesque_Buried_Fear.md
+      - ......: Aesthetics&Romance/Meaning_and_Nihilism.md
+      - 我们为何迷恋于废土 废土文化美学: Aesthetics&Romance/Why_We_Are_Obsessed_with_the_Wasteland_Wasteland_Cultural_Aesthetics.md
+      - 手机游戏 男性向与女性向的缺失成分 虚拟世界的美学暗牌: Aesthetics&Romance/Mobile_Games_Missing_Components_of_Male_and_Female_Oriented_Games_Aesthetics_Hidden_Card_in_Virtual_World.md
+      - 诗和诗的诗 在废墟的瓦砾下 废土文化美学: Aesthetics&Romance/Poetry_and_the_Poetry_of_Poetry_Under_the_Rubbles_of_Wasteland_Aesthetics.md
+      - 理想还是疯魔 鸡娃 被种种又需面对种种的我们: Aesthetics&Romance/Ideal_or_Madness_Tiger_Parenting_The_Many_Things_We_Face.md
+      - 神圣与疯狂 废土文化: Aesthetics&Romance/Sacred_and_Madness_Wasteland_Culture.md
+      - 为什么总是男女对立 《剑星》话题前瞻: Aesthetics&Romance/Why_Always_Gender_Antagonism_Stellar_Blade_Topic_Preview.md
+      - 诗性、梦境与废墟: Aesthetics&Romance/Poetry_Dream_and_Ruins.md
+      - 什么是行为艺术: Aesthetics&Romance/What_Is_Performance_Art.md
+      - 池核 否定你的全部: Aesthetics&Romance/Poolcore_Denying_Your_Everything.md
+      - 爱上疯子 属于人的怪物 游戏等娱乐制品中的疯狂精神特质: Aesthetics&Romance/Loving_a_Madman_The_Human_Monster_Crazy_Spiritual_Traits_in_Games_and_Entertainment.md
+      - 梦的反叛 欲望与欲望的对决 《崩坏：星穹铁道》匹诺康尼2.2剧情解析: Aesthetics&Romance/Rebellion_of_Dreams_Clash_of_Desires_Honkai_Star_Rail_Penacony_2_2_Plot_Analysis_Trailblazer_Part_2.md
+      - ......: Aesthetics&Romance/Season_and_Tenderness.md
+      - 声音的语言 《地狱之刃2》精神分裂的两种思维: Aesthetics&Romance/The_Language_of_Sound_Hellblade_2_Two_Modes_of_Schizophrenic_Thought.md
+      - 旧核 核类文化 艺术意术: Aesthetics&Romance/Old_Core_Nuclear_Culture_Art_Intent.md
+      - 很是陌生 《黑神话：悟空》美学解析前瞻 夏日游戏节: Aesthetics&Romance/It_Is_Strange_Black_Myth_Wukong_Aesthetics_Preview_Summer_Game_Fest.md
+      - 志愿：白纸黑字的梦想: Aesthetics&Romance/Volunteer Dreams.md
+      - 污名：龙蜥夫人——《原神》4.7 克洛琳德现象观察: Aesthetics&Romance/Stigma Clorinde Genshin Impact.md
+      - 艺术的下一站：仇恨: Aesthetics&Romance/The Next Station of Art Hatred.md
+      - 绝区零艺术表达前瞻：潮流与二次元文化的方言: Aesthetics&Romance/Zenless Zone Zero Art Expression.md
+      - 原神希格雯个人剧情漫谈：分离的面容: Aesthetics&Romance/Genshin Impact Sigewinne Storyline.md
+      - 《绝区零》潮玩：美与丑的美学漫谈: Aesthetics&Romance/Zenless_Zone_Zero_Trendy_Toys_Aesthetics_of_Beauty_and_Ugliness.md
+      - 《绝区零》猫宫又奈：贼猫御鼠剧情漫谈: Aesthetics&Romance/Zenless_Zone_Zero_Miyabi_Storyline.md
+      - 我生来低贱: Aesthetics&Romance/I_Was_Born_Humble.md
+      - 死亡一谈：恐惧、那个与你相伴一生的恋人: Aesthetics&Romance/Fear_The_Lifelong_Companion_of_Death_Gaze.md
+      - 死亡二谈：快门下的死亡与意义: Aesthetics&Romance/Death_Revisited_Photography_and_Meaning.md
+      - 死亡三谈：生命之中的故事欲: Aesthetics&Romance/Death_Three_Talks_Story_Desire_in_Life.md
+      - 死亡四谈：艺术已死: Aesthetics&Romance/Death_Four_Talks_The_Death_of_Art.md
+      - 死亡五谈：自杀: Aesthetics&Romance/Death_Five_Talks_Suicide.md
+      - 死亡六谈：身体租借与情色偏执: Aesthetics&Romance/Death_Six_Talks_Body_Lease_and_Erotic_Obsession.md
+      - 死亡谈话：文化艺术存在论: Aesthetics&Romance/Death_Dialogue_Cultural_Art_Ontology.md
+      - 精致女孩与男孩：仪式感与仪式行为: Aesthetics&Romance/Exquisite_Girls_and_Boys_Ritual_Sense_and_Behavior.md
+      - 你从不是一个正常人：创伤性挫折: Aesthetics&Romance/You_Were_Never_Normal_Traumatic_Frustration.md
+      - 虚无的虚妄：在场的悲伤与离场的快乐: Aesthetics&Romance/The_Vanity_of_Nothingness_Present_Sadness_Absent_Joy.md
+      - 香水理论：灵魂的香水瓶: Aesthetics&Romance/Perfume_Theory_The_Soul_Perfume_Bottle.md
+      - 文学的意识：意象的空间与时间: Aesthetics&Romance/Literary_Consciousness_Spatial_Temporal_Imagery.md
+      - 一场蓄意谋杀：爱情与浪漫: Aesthetics&Romance/A_Premeditated_Murder_Love_and_Romance.md
+      - 要么要么：揭示未来的我们: Aesthetics&Romance/Either_Or_Revealing_Our_Future.md
+      - 审美的疯狂：名作《亚历山大之战》: Aesthetics&Romance/Aesthetic_Madness_The_Battle_of_Issus.md
+      - 狂: Aesthetics&Romance/Madness.md
+      - 疯狂一谈：庆典开始: Aesthetics&Romance/Madness_Talk_One_Celebration_Begins.md
+      - 疯狂二谈：一种古老的虚无主义: Aesthetics&Romance/Madness_Two_Talks_An_Ancient_Nihilism.md
+      - 疯狂三谈：自掘坟墓: Aesthetics&Romance/Madness_Three_Talks_Digging_Own_Grave.md
+      - 疯狂四谈：颓废: Aesthetics&Romance/Madness_Four_Talks_Decadence.md
+      - 疯狂五谈：孤独与仇恨: Aesthetics&Romance/Madness_Five_Talks_Loneliness_and_Hatred.md
+      - 疯狂六谈：自残: Aesthetics&Romance/Madness_Six_Talks_Self_Harm.md
+      - 疯狂谈话：现代虚无主义的症结: Aesthetics&Romance/Madness_Talk_The_Crux_of_Modern_Nihilism.md
+      - 核类文化：怪核、梦核与池核——精神世界的现实投影: Aesthetics&Romance/Core_Culture_Weirdcore_Dreamcore_Poolcore_Mental_Projection.md
+      - 废土文化美学：诗和诗的诗: Aesthetics&Romance/Wasteland_Culture_Aesthetics_Poem_of_Poems.md
+      - 怪诞美学文化：惊怪奇猎的烂漫意象: Aesthetics&Romance/Grotesque_Aesthetics_Culture_Bizarre_Romantic_Imagery.md
+      - 美貌永驻：符号性的美貌与身体性的永生: Aesthetics&Romance/Beauty_Everlasting_Symbolic_Beauty_and_Corporeal_Immortality.md
+      - 自恋一谈：自恋情结的混沌与秩序: Aesthetics&Romance/Narcissism_Talk_One_Chaos_and_Order_of_Narcissistic_Complex.md
+      - 自恋二谈：广告神话与虚构性的社会存在: Aesthetics&Romance/Narcissism_Talk_Two_Advertising_Myths_and_Fictional_Social_Existence.md
+      - 自恋三谈 文化的自恋: Aesthetics&Romance/Narcissistic Talk Three - Cultural Narcissism.md
+      - 自恋谈话 现代性自恋情结的源头: Aesthetics&Romance/Narcissistic Talk - The Origin of Modern Narcissism Complex.md
+      - 都市传说 心灵遥控与摇滚音乐: Aesthetics&Romance/Urban Legend - Mind Control and Rock Music.md
+      - 你的椅子在哪里 人间椅子: Aesthetics&Romance/Where Is Your Chair - The Human Chair.md
+      - 什么是创伤: Aesthetics&Romance/What is Trauma.md
+      - 纵身一跃 在创伤的利刃之下: Aesthetics&Romance/A Leap - Under the Blade of Trauma.md
+      - 没有正反之分的硬币 创伤的梦魇: Aesthetics&Romance/A Coin Without Front or Back - The Nightmare of Trauma.md
+      - 创伤于尊严 选择创伤: Aesthetics&Romance/Trauma and Dignity - Choosing Trauma.md
+      - 创伤谈话 现代性创伤的自然面貌: Aesthetics&Romance/Trauma Talk - The Natural Face of Modern Trauma.md
+      - 糖果意象: Aesthetics&Romance/The Imagery of Candy.md
+      - 何为友谊 存在于友谊: Aesthetics&Romance/What is Friendship - Existing in Friendship.md
+      - 神秘学于道德与情色: Aesthetics&Romance/Mysticism, Morality, and Eroticism.md
+      - 情爱起伏在行走的象征之上: Aesthetics&Romance/Love Fluctuates on the Symbol of Walking.md
+      - 孤独于自由与情色: Aesthetics&Romance/Loneliness, Freedom, and Eroticism.md
+      - 圣洁与堕落于情色: Aesthetics&Romance/Sanctity and Depravity in Eroticism.md
+      - 九百九十九年以后: Aesthetics&Romance/Nine Hundred Ninety-Nine Years Later.md
+      - 希望是什么: Aesthetics&Romance/What is Hope.md
+      - 注意力 心智与注意力于孤独: Aesthetics&Romance/Attention - Mind, Attention, and Loneliness.md
+      - 为何传说 故事的力量: Aesthetics&Romance/Why Legends - The Power of Stories.md
+      - 从孤独美到新艺术鉴赏 —— 以霍普的出发: Aesthetics&Romance/From the Aesthetics of Loneliness to New Art Appreciation - Starting with Hopper.md
+      - 故事的故事 美感奔逸在传说于时间: Aesthetics&Romance/The Story of Stories - Aesthetic Beauty in Legend and Time.md
+      - 赛博朋克 赛博—朋克: Aesthetics&Romance/Cyberpunk - Cyber-Punk.md
+      - 引人发笑的事物: Aesthetics&Romance/Things That Make You Laugh.md
+      - 绝望于机械与机器: Aesthetics&Romance/Despair in Machines and Robotics.md
+      - 仿生人会梦见电子羊吗？: Aesthetics&Romance/Do Replicants Dream of Electric Sheep.md
+      - 赛博谈话 仿生人的虚无梦境: Aesthetics&Romance/Cyber Talk - The Nihilistic Dream of Replicants.md
+      - 神秘学于预兆与征兆: Aesthetics&Romance/Mysticism in Omens and Portents.md
+      - 寂静岭 在恐惧与惊吓之间的独一心灵体验: Aesthetics&Romance/Silent Hill - A Unique Psychic Experience Between Fear and Fright.md
+      - 神秘学于象征与直觉: Aesthetics&Romance/Mysticism in Symbolism and Intuition.md
+      - 心灵杀手2 象征性内容深度解读释义 remedy宇宙的现实与虚幻: Aesthetics&Romance/Alan Wake 2 - Deep Dive into Symbolic Content - Reality and Illusion in the Remedy Universe.md
+      - 神秘学于梦境与直觉: Aesthetics&Romance/Mysticism in Dreams and Intuition.md
+      - 心灵杀手2 被侧写的直觉梦境: Aesthetics&Romance/Alan Wake 2 - The Profiled Intuitive Dream.md
+      - 神秘学的镜像与被扭曲的自我: Aesthetics&Romance/Mysticism's Mirror Image and the Twisted Self.md
+      - 心灵杀手2 梦境的扭曲镜像: Aesthetics&Romance/Alan Wake 2 - The Twisted Mirror of Dreams.md
+      - 神秘学于预言梦与精神世界: Aesthetics&Romance/Mysticism in Prophetic Dreams and the Spiritual World.md
+      - 以心理恐怖游戏论意识与无意识于现实及虚幻 —— 幕间集: Aesthetics&Romance/On Consciousness and Unconsciousness in Reality and Illusion through Psychological Horror Games - Interlude.md
+      - 神秘主义谈话 直觉梦境于寓言: Aesthetics&Romance/Mystical Talk - Intuitive Dreams and Allegories.md
+      - 下一顿吃什么: Aesthetics&Romance/What to Eat Next.md
+      - 餐后事项 在兴趣之下: Aesthetics&Romance/After-Dinner Matters - Under the Influence of Interests.md
+      - 抽象文化: Aesthetics&Romance/Abstract Culture.md
 
 theme: # 主题设置
   name: material # 使用 mkdocs-material 主题，如果未安装，请将此行改为 'readthedocs' 或 'mkdocs'
